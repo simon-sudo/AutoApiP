@@ -1,3 +1,6 @@
+![Auto Api Pro](https://github.com/simon-sudo/AutoApiP/workflows/Auto%20Api%20Pro/badge.svg)
+![Update Token](https://github.com/simon-sudo/AutoApiP/workflows/Update%20Token/badge.svg)
+
 # AutoApiP
 AutoApi系列：~~AutoApi~~、AutoApiSecret、~~AutoApiSR、AutoApiS~~、AutoApiP
 
